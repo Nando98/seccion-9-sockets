@@ -1,0 +1,2 @@
+EL socket permite tener una comunicación activa con la maquina cliente y el servidor,
+es decir, el servidor va ser capaz de disprar notificaciones en tiempo real.
